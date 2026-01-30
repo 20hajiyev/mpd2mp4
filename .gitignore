@@ -1,0 +1,48 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE Settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Downloaded/Generated Files
+*.mp4
+*.mkv
+*.webm
+*.m4a
+*.mp3
+
+# OS Generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
